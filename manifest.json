@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Sai Sumanth",
+  "description": "Quick Access to My Internet Dens",
+  "version": "1.0.0",
+  "icons": { "128": "S logo128.png" },
+  "browser_action": {
+    "default_icon": "S logo19.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
