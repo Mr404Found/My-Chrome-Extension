@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "githubProfile":"Mr404Found",
+
   "name": "Sai Sumanth",
   "description": "Quick Access to My Internet Dens",
   "version": "1.0.0",
@@ -11,5 +11,3 @@
   },
   "permissions": ["activeTab"]
 }
-
-//updating json file
